@@ -1,0 +1,4 @@
+Pytest
+hug
+gunicorn
+python-json-logger
